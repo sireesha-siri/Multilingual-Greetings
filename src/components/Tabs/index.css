@@ -1,0 +1,24 @@
+li {
+  list-style-type: none;
+  margin: 20px;
+}
+
+button {
+  border: none;
+  border-radius: 15px;
+  height: 40px;
+  width: 100px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.not-active {
+  background-color: white;
+  border: 1px #db1c48 solid;
+  color: #db1c48;
+}
+
+.active {
+  background-color: #db1c48;
+  color: white;
+}

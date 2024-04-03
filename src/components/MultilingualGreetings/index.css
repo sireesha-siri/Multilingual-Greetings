@@ -1,0 +1,28 @@
+.background-container {
+  min-height: 120vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.heading {
+  color: #1e293b;
+  font-size: 40px;
+}
+
+.buttons-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.images-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
